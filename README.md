@@ -23,3 +23,18 @@ This project is mostly just cardbox boxes, a ton of loose electronics and of cou
 This entire project is pretty much built onto of 2 stepper motors, and one DC motor. The stepper motors drive the conveyor belt, and then the DC motor is used to wind the pulley which makes the flappy bird go up and down. There's also an LCD to keep track of the score, and then a cat printer that runs over bluetooth to print out said score on sticker paper you can show off to your friends. All running on the Pi Pico W :D
 
 <img width="1827" height="1788" alt="image" src="https://github.com/user-attachments/assets/ef1b572e-0ebb-452f-86d7-9311e78d3e40" />
+
+## Firmware
+
+The entire firmware is written entirely by @mpkendall and is C++ inside of arduino IDE, on the Pi Pico W. The cat printer runs over bluetooth, and can be used over web UI, nodeJS API or some other methods!
+
+## Bill of Materials (BOM)
+
+- 2x SM-5VDC-DRV stepper motor/driver
+- 1x Pi Pico W
+- 1x L293D DC motor driver
+- 1x N20 DC motor
+- 1x 9V battery for DC motor driver
+- 1x MXW01 thermal cat-themed printer
+- 1x 19x02 LCD with I2C breakout
+- Assorted wires/cardboard/breadboards/misc
