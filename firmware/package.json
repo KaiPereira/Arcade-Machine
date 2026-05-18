@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@stoprocent/noble": "^1.19.1",
+    "canvas": "^3.2.3",
+    "mxw01-thermal-printer": "^0.1.0"
+  },
+  "type": "module"
+}
