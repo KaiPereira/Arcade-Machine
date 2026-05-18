@@ -1,6 +1,6 @@
 ## Flappy Bird *cardboard edition*
 
-[image of final thing]
+<img width="1920" height="960" alt="image" src="https://cdn.hackclub.com/019e3b3b-9a24-7fef-b659-10be7e5f9198/image_from_ios.jpg" />
 
 We turned digital flappy bird, into a real and tangible arcade game with some fun twists. Smash a comically sized button, show off your personal records, and become the ultimate flappy bird champion! 
 
